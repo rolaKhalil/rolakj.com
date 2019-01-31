@@ -8,7 +8,7 @@ class Header extends Component {
             <div className="App">
                 <header className="App-header">
                     <p>
-                        Hi, I'm Rola Khalil Judi <br />
+                        Hi, I'm Rola Khalil <br />
                         <div>
                             <a className="App-links" href={resume}>resume</a> &nbsp;
                             <a className="App-links" href="https://linkedin.com/in/rola-khalil">linkedin</a> &nbsp;
