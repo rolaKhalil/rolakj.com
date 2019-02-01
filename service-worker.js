@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/rolaKhalil.github.io/precache-manifest.83d3371d29d3296e619d0379dbaa84b2.js"
+  "/rolakj.com/precache-manifest.051bd51d72cd4832407f5d226229c9ad.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/rolaKhalil.github.io/index.html", {
+workbox.routing.registerNavigationRoute("/rolakj.com/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
